@@ -1,0 +1,9 @@
+{
+  "name": "smtp-mail-server",
+  "packageManager": "yarn@4.1.0",
+  "dependencies": {
+    "@types/smtp-server": "^3.5.10",
+    "smtp-server": "^3.13.2"
+  },
+  "type": "module"
+}
